@@ -9,6 +9,7 @@ body {
      margin: 0; padding: 0;
 }
 
+/* Responsive Container Styles */
 .container {
      display: flex;
      flex-direction: column;
@@ -20,6 +21,7 @@ body {
      text-align: center;
 }
 
+/* Content Styles */
 img {
      margin-top: 15px;
      width: 270px;
@@ -41,6 +43,7 @@ p {
      color: hsl(220, 15%, 55%);
 }
 
+/* Attribution Styles */
 .attribution {
      position: absolute;
      bottom: 10px;
